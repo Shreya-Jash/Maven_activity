@@ -1,10 +1,8 @@
-package MavenActivity;
-
 import java.util.Map.Entry;
 import java.util.SortedMap;
 import java.util.TreeMap;
  
-public class App {
+public class SortedMap {
     public static void main(String[] args) {
         SortedMap<String, String> marketProjects = new TreeMap<>();
         // Add some market-project mappings
